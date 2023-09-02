@@ -1,2 +1,2 @@
 # Choc-OS
-Creating a 64-bit Operating System Kernel
+Building a bootloader, and ultimatley, an operating system. 
